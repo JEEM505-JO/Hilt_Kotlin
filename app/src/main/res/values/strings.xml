@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hilt Kotlin</string>
+    <string name="title_activity_basic_ui">BasicUI</string>
+    <string name="title_activity_list_compose">ListCompose</string>
+    <string name="title_activity_room_hilt">RoomHilt</string>
+</resources>
